@@ -1,4 +1,5 @@
-**CA01- Exploratory Data Analysis - House Price Analysis**
+**Computer Assignment #1: Exploratory Data Analysis - House Price Analysis**
+
 The dataset is from github.com/ArinB/MSBA-CA-Data/CA01
 
 **What is it about?**
