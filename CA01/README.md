@@ -1,7 +1,7 @@
 **Computer Assignment #1: Exploratory Data Analysis - House Price Analysis**
 ----
 
-The dataset is from http://github.com/ArinB/MSBA-CA-Data/CA01
+Exploratory Data Analysis is an approach analyzing data sets to summarize their main characteristics such as mean, standard deviation, and count, so on, often with visual methods. It’s where the researcher takes a bird’s eye view of the data and tries to make some sense of it.
 
 **What is it about?**
 ---
@@ -9,7 +9,8 @@ This data provides values of various features that “might” be predictive of 
 
 **What information does it have?**
 ---
-The dataset comes with the following files. You can view them at: github.com/ArinB/MSBA-CA-Data/CA01
+The dataset comes with the following files. You can view them at: [github.com/ArinB/MSBA-CA-Data/CA01](http://github.com/ArinB/MSBA-CA-Data/CA01)
+
 - Data Description text file
 - house-price-train.csv
 - house-price-test.csv
