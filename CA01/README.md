@@ -3,7 +3,7 @@
 
 Exploratory Data Analysis is an approach analyzing data sets to summarize their main characteristics such as mean, standard deviation, and count, so on, often with visual methods. It’s where the researcher takes a bird’s eye view of the data and tries to make some sense of it.
 
-**What is it about?**
+**What is this dataset about?**
 ---
 This data provides values of various features that “might” be predictive of house prices. In other words, if a ML model is developed using this dataset, potentially such a model can be used to determine the “listing price” of a property that the owners are planning to sell.
 
