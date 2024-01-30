@@ -11,6 +11,7 @@ The dataset comes with the following files. You can view them at: github.com/Ari
 - house-price-test.csv
 
 **There are 3 parts to this code**
+
 Part 1: Data Understanding – We explored various visualization of the variable analysis and finally the Data Quality Report that identifies the data problems that exist in this dataset.
 
 Part 2: In this part we fixed the data problems identified in the Data Quality Report.
