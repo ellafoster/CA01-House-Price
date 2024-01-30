@@ -1,7 +1,7 @@
 **Computer Assignment #1: Exploratory Data Analysis - House Price Analysis**
 ----
 
-The dataset is from github.com/ArinB/MSBA-CA-Data/CA01
+The dataset is from http://github.com/ArinB/MSBA-CA-Data/CA01
 
 **What is it about?**
 ---
@@ -21,3 +21,6 @@ Part 1: Data Understanding – We explored various visualization of the variable
 Part 2: In this part we fixed the data problems identified in the Data Quality Report.
 
 Part 3: For this part, we explored the “collinearity” visualization and identification of the features that need to be dropped (feature selection), if any.
+
+
+![image](https://github.com/ellafoster/Machine-Learning-Models/assets/144483875/117fa7f3-af99-4c6d-80da-9f0d638df030)
